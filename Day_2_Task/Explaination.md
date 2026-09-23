@@ -550,11 +550,12 @@ Day_2_Task/
 ├── cot_compare.py
 ├── self_consistency.py
 ├── react_trace.py
-├── explanation.md
-└── screenshots/
-    ├── cot_compare.png
-    ├── self_consistency.png
-    └── react_trace.png
+├── Explanation.md
+└── Output_Screenshots/
+    ├── 01_react_trace.png
+    ├── 02_01_cot_compare.png
+    ├── 02_02_cot_compare.png
+    └── 03_self_consistency.png
 ```
 
 The screenshots should show the programs actually running on the

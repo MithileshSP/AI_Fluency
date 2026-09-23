@@ -43,7 +43,7 @@ Python_AI/
     ├── cot_compare.py
     ├── self_consistency.py
     ├── react_trace.py
-    └── explanation.md
+    └── ...
 ```
 
 ------------------------------------------------------------------------
